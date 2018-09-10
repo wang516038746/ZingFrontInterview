@@ -1,4 +1,4 @@
-
+// 题目1
 // 解题思路
 // 1.先将字符串转成 Object 形式
 // 2.找出拥有公共长度的字符串的长度
@@ -112,6 +112,8 @@ function findSameString(objAry, numAry, choiceNum) {
 
 
 
+
+// 题目2
 // 解题思路
 /** 
  * 等差数列公式 (首项 + 末项) * 项数 / 2
